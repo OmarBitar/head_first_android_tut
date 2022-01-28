@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chapter2_intent</string>
+    <string name="send_msg">Send Message</string>
+    <string name="share_msg">Share Message</string>
+    <string name="quick_send">Quick Send</string>
+    <string name="chooser">Send Message Via ...</string>
+</resources>

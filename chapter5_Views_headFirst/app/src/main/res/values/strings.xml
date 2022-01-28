@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chapter5_Views_headFirst</string>
+    <string name="click_to_begin">Click to Begin</string>
+    <string name="hello_world">Hello World</string>
+</resources>
