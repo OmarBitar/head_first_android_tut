@@ -12,9 +12,9 @@
 		android:layout_height="match_parent">
 	</fragment>
 
-	<fragment
+	<FrameLayout
 		android:name="com.hfad.workout_ch9.WorkoutDetailFragment"
-		android:id="@+id/detail_frag"
+		android:id="@+id/fragment_container"
 		android:layout_width="0dp"
 		android:layout_weight="3"
 		android:layout_height="match_parent"/>
