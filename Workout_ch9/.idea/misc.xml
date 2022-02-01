@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout-large/activity_main.xml" value="0.232421875" />
         <entry key="app/src/main/res/layout/activity_detail.xml" value="0.28229166666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/activity_temp.xml" value="0.18981481481481483" />
+        <entry key="app/src/main/res/layout/fragment_stopwatch.xml" value="0.18981481481481483" />
         <entry key="app/src/main/res/layout/fragment_workout_detail.xml" value="0.2682291666666667" />
       </map>
     </option>
