@@ -4,4 +4,8 @@
 	<string name="create_order_title">Create Order</string>
 	<string name="action_share">Share</string>
 	<string name="title_top">Top fragment</string>
+	<string-array name="pizzas">
+		<item>Diavolo</item>
+		<item>Funghi</item> res
+	</string-array>
 </resources>
