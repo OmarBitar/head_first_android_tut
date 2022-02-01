@@ -6,6 +6,11 @@
 	<string name="title_top">Top fragment</string>
 	<string-array name="pizzas">
 		<item>Diavolo</item>
-		<item>Funghi</item> res
+		<item>Funghi</item>
+		res
+	</string-array>
+	<string-array name="pasta">
+		<item>Spaghetti Bolognese</item>
+		<item>Lasagne</item>
 	</string-array>
 </resources>
