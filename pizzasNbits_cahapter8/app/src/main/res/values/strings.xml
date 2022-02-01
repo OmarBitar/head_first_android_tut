@@ -13,4 +13,8 @@
 		<item>Spaghetti Bolognese</item>
 		<item>Lasagne</item>
 	</string-array>
+	<string-array name="stores">
+		<item>Cambridge</item>
+		<item>Sebastopol</item>
+	</string-array>
 </resources>
