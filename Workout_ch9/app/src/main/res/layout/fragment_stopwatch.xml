@@ -17,7 +17,6 @@
 
 	<Button
 		android:id="@+id/start"
-		android:onClick="onClickStart"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:text="@string/start"
@@ -25,7 +24,6 @@
 
 	<Button
 		android:id="@+id/stop"
-		android:onClick="onClickStop"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:text="@string/stop"
@@ -33,11 +31,19 @@
 
 	<Button
 		android:id="@+id/restart"
-		android:onClick="onClickRestart"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:layout_gravity="center"
 		android:text="@string/restart" />
+
+	<TextView
+		android:id="@+id/currentLife"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="56sp"
+		android:hint="hello world"
+		android:textAppearance="@android:style/TextAppearance.Large"
+		android:layout_gravity="center"/>
 
 
 </LinearLayout>
