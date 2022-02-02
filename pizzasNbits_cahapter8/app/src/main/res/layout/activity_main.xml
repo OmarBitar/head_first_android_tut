@@ -7,6 +7,12 @@
 	android:layout_height="match_parent"
 	tools:context=".MainActivity">
 
+	<com.google.android.material.tabs.TabLayout
+		android:layout_width="match_parent"
+		android:layout_height="?attr/actionBarSize"
+		android:id="@+id/tabs"
+		android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
 	<include
 		layout="@layout/toolbar_main"
 		android:id="@+id/toolbar"/>
