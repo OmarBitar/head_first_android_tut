@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
 	public void fabBtn(View view) {
 		String Text = "hello world";
-		Snackbar.make(findViewById(R.id.fab),Text,Snackbar.LENGTH_SHORT).show();
+		Snackbar.make(findViewById(R.id.fab),Text,Snackbar.LENGTH_SHORT)
+				.setAnchorView(findViewById(R.id.fab))
+				.show();
 	}
 }
