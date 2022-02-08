@@ -25,6 +25,7 @@
 				android:layout_width="match_parent"
 				android:layout_height="250dp"
 				android:src="@drawable/background_4922625_1920"
+				app:layout_collapseMode="parallax"
 				android:scaleType="centerCrop"/>
 
 			<!-- must be included as last element in CollapsingToolBarLayout -->
