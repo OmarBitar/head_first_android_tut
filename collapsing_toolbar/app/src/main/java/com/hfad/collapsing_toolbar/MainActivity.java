@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 				.setAction("🥂", new View.OnClickListener() {
 					@Override
 					public void onClick(View view) {
-						Toast.makeText(getBaseContext(),"cheers",Toast.LENGTH_SHORT).show();
+						Toast.makeText(MainActivity.this,"cheers",Toast.LENGTH_SHORT).show();
 					}
 				})
 				.setAnchorView(findViewById(R.id.fab))
