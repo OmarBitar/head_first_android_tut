@@ -39,11 +39,13 @@
 	</com.google.android.material.appbar.AppBarLayout>
 
 	<com.google.android.material.floatingactionbutton.FloatingActionButton
+		android:id="@+id/fab"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:src="@drawable/ic_baseline_send_24"
 		app:layout_anchor="@id/appBarLayout"
 		app:layout_anchorGravity="bottom|end"
+		android:onClick="fabBtn"
 		android:layout_marginEnd="30dp" />
 
 	<androidx.core.widget.NestedScrollView
