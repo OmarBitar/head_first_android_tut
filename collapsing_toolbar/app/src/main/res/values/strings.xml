@@ -1,3 +1,4 @@
 <resources>
 	<string name="app_name">collapsing_toolbar</string>
+	<string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur turpis ex, tristique eget malesuada eget, blandit in velit. Nullam id congue neque. Mauris varius mattis arcu nec tincidunt. Integer fermentum velit a lacus vulputate volutpat non posuere eros. Fusce ut eros varius, scelerisque eros id, pretium erat. Etiam sit amet augue maximus, commodo arcu id, elementum velit. Proin dolor ligula, condimentum a neque ut, laoreet bibendum tellus. Donec a finibus leo. Pellentesque magna diam, sollicitudin et metus eget, gravida dignissim dolor.</string>
 </resources>
