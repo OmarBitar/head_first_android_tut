@@ -9,6 +9,7 @@
 	<com.google.android.material.appbar.AppBarLayout
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
+		android:id="@+id/appBarLayout"
 		style="@android:style/ThemeOverlay.Material.Dark.ActionBar">
 
 		<com.google.android.material.appbar.CollapsingToolbarLayout
@@ -35,5 +36,13 @@
 		</com.google.android.material.appbar.CollapsingToolbarLayout>
 
 	</com.google.android.material.appbar.AppBarLayout>
+
+	<com.google.android.material.floatingactionbutton.FloatingActionButton
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:src="@drawable/ic_baseline_send_24"
+		app:layout_anchor="@id/appBarLayout"
+		app:layout_anchorGravity="bottom|end"
+		android:layout_marginEnd="30dp" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
